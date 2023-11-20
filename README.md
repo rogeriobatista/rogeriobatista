@@ -2,12 +2,12 @@
 - 👀 I’m interested in Web Development, Mobile Development, DevOps, Cloud Computing, Software Architecture, Games and Music
 - 🌱 I’m currently learning Python and Cloud Computing
 - 💞️ I’m looking to collaborate on Web and Mobile projects
-- 📫 How to reach me @rogeriobsjr (Instagram) or rogeriobatistadev@gmail.com
+- 📫 How to reach me rogeriobatistadev@gmail.com
 
 <div>
   <a href="https://github.com/rogeriobatista">
-<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeriobatista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeriobatista&show_icons=true&theme=dracula&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeriobatista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeriobatista&show_icons=true&theme=dracula&count_private=true"/> -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriobatista&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
