@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rogeriobatista
-- 👀 I’m interested in Web Development, Mobile Development, DevOps, Cloud Computing, Software Architecture, Games and Music
+- 👀 I’m interested in Web Development, AI Development, DevOps, Cloud Computing, Software Architecture, Games and Music
 - 🌱 I’m currently learning Python and Cloud Computing
-- 💞️ I’m looking to collaborate on Web and Mobile projects
+- 💞️ I’m looking to collaborate on Web and AI projects
 - 📫 How to reach me rogeriobatistadev@gmail.com
 
 <div>
